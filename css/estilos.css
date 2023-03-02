@@ -38,3 +38,13 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    width: 70%;
+    background: #5DB0F6;
+    color: whitesmoke;
+    box-shadow: 0px 2px 20px 0px;
+    padding: 0.5em;
+    margin: 0 auto    
+}
