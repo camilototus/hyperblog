@@ -5,4 +5,7 @@
 
 ###Les invito a conocer Git
 
+- Saberlo manejar es genial
+- Ojala siempre con buenas practicas
+
 > Gracias por todo
